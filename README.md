@@ -2,6 +2,7 @@
 
 An analysis of historic stock datasets and building a machine learning algorithm to predict stock behavior. 
 
+Apurv is pretty smart maybe
 
 ## Getting Started
 
